@@ -58,7 +58,7 @@ cd webSocket-chat-app
 ```bash
 cd server
 dart pub get
-dart run dart_frog dev
+dart_frog dev
 ```
 Server akan berjalan di `http://localhost:8080`
 
